@@ -1,8 +1,3 @@
-# React + Vite
+**RECOIL**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![recoil](https://github.com/SkullRex001/Shopping_Cart_RECOIL/assets/122201082/779190e2-adf4-46b2-9651-35bc0f4d7158)
