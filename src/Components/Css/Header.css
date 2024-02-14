@@ -1,0 +1,23 @@
+.Header{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    background-color: aqua;
+    padding: 2vmax;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+
+}
+
+.Header>p {
+    margin: 0;
+}
+
+.Links, .Links>a{
+    display: flex;
+    gap: 15vmax;
+    text-decoration: none;
+    color: rgb(5, 150, 54);
+    
+}
